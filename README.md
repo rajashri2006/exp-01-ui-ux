@@ -1,9 +1,9 @@
-# exp-01-ui-ux
+# Exp-01-ui-ux
 
-##Aim:
+## Aim:
 
-##Algorithm:
+## Algorithm:
 
-##Output:
+## Output:
 
-##Result:
+## Result:
